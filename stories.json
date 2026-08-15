@@ -4,10 +4,10 @@
     "instagram": "https://instagram.com/_melosxz",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/_melosxz/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/_melosxz/1.png"
       },
       {
-        "image": "{{BASE_URL}}/stories/_melosxz/2.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/_melosxz/2.png"
       }
     ]
   },
@@ -16,7 +16,7 @@
     "instagram": "https://instagram.com/arcanjomateus_",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/arcanjomateus_/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/arcanjomateus_/1.png"
       }
     ]
   },
@@ -25,10 +25,10 @@
     "instagram": "https://instagram.com/bovo_luuh",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/bovo_luuh/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/bovo_luuh/1.png"
       },
       {
-        "image": "{{BASE_URL}}/stories/bovo_luuh/2.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/bovo_luuh/2.png"
       }
     ]
   },
@@ -37,7 +37,7 @@
     "instagram": "https://instagram.com/dudapatta",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/dudapatta/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/dudapatta/1.png"
       }
     ]
   },
@@ -46,7 +46,7 @@
     "instagram": "https://instagram.com/freitascamila664",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/freitascamila664/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/freitascamila664/1.png"
       }
     ]
   },
@@ -55,7 +55,7 @@
     "instagram": "https://instagram.com/itss.gica",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/itss.gica/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/itss.gica/1.png"
       }
     ]
   },
@@ -64,7 +64,7 @@
     "instagram": "https://instagram.com/larisant_0",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/larisant_0/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/larisant_0/1.png"
       }
     ]
   },
@@ -73,7 +73,7 @@
     "instagram": "https://instagram.com/sophiasanttos__",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/sophiasanttos__/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/sophiasanttos__/1.png"
       }
     ]
   },
@@ -82,7 +82,7 @@
     "instagram": "https://instagram.com/sthellagoulart",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/sthellagoulart/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/sthellagoulart/1.png"
       }
     ]
   },
@@ -91,10 +91,10 @@
     "instagram": "https://instagram.com/tamiresm.furtado",
     "photos": [
       {
-        "image": "{{BASE_URL}}/stories/tamiresm.furtado/1.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/tamiresm.furtado/1.png"
       },
       {
-        "image": "{{BASE_URL}}/stories/tamiresm.furtado/2.png"
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/stories/tamiresm.furtado/2.png"
       }
     ]
   }
