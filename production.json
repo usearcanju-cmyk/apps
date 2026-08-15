@@ -1,22 +1,22 @@
 [
   {
     "label": "Estampagem",
-    "avatar": "{{BASE_URL}}/production/estampagem/poster.jpg",
+    "avatar": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/production/estampagem/poster.jpg",
     "photos": [
       {
-        "image": "{{BASE_URL}}/production/estampagem/poster.jpg",
-        "video": "{{BASE_URL}}/production/estampagem/video.mp4",
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/production/estampagem/poster.jpg",
+        "video": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/production/estampagem/video.mp4",
         "duration": 23
       }
     ]
   },
   {
     "label": "Embalagem",
-    "avatar": "{{BASE_URL}}/production/embalagem/poster.jpg",
+    "avatar": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/production/embalagem/poster.jpg",
     "photos": [
       {
-        "image": "{{BASE_URL}}/production/embalagem/poster.jpg",
-        "video": "{{BASE_URL}}/production/embalagem/video.mp4",
+        "image": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/production/embalagem/poster.jpg",
+        "video": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/production/embalagem/video.mp4",
         "duration": 22
       }
     ]
