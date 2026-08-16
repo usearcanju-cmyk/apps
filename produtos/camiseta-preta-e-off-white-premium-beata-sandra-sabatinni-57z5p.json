@@ -1,0 +1,75 @@
+{
+  "fitLabel": "Ajuste",
+  "fitValue": "Padrão",
+  "collectionLabel": "Coleção",
+  "collectionValue": "Devoção Mariana",
+  "sizeGuideImage": "https://SEU-LINK-DE-IMAGEM/guia-de-medidas.jpg",
+
+  "reviews": {
+    "average": 4.8,
+    "items": [
+      {
+        "rating": 5,
+        "title": "Superou minhas expectativas",
+        "author": "Marina C.",
+        "verified": true,
+        "date": "2026-08-10",
+        "body": "O tecido é muito mais encorpado do que eu esperava, e a estampa ficou impecável. Já é minha terceira camiseta da marca."
+      },
+      {
+        "rating": 5,
+        "title": "Amei o caimento",
+        "author": "João P.",
+        "verified": true,
+        "date": "2026-08-05",
+        "body": "Pedi o tamanho M seguindo o guia de medidas e vestiu perfeitamente. Recomendo comprar no tamanho certo."
+      },
+      {
+        "rating": 4,
+        "title": "Muito boa, só demorou um pouco",
+        "author": "Rafaela S.",
+        "verified": true,
+        "date": "2026-07-28",
+        "body": "Produto lindo, qualidade excelente. Só demorou um pouco mais que o esperado pra chegar."
+      }
+    ]
+  },
+
+  "fitAndSize": {
+    "image": "https://SEU-LINK-DE-IMAGEM/detalhe-tecido.jpg",
+    "title": "Modelagem padrão:",
+    "text": "Recomendamos pedir o tamanho que você já costuma vestir em camisetas."
+  },
+
+  "description": "Uma camiseta pensada pra unir fé e estilo no dia a dia. Estampa exclusiva inspirada na devoção mariana, feita em algodão premium encorpado que não perde a forma com o tempo. Ideal pra quem quer usar sua fé com identidade — do compromisso à rua.",
+
+  "details": [
+    "Modelagem reta",
+    "Gola careca reforçada",
+    "Material principal: 100% algodão penteado",
+    "Tecido premium encorpado",
+    "Estampa em DTF digital de alta durabilidade",
+    "Comprimento padrão",
+    "Elementos da marca Use Arcanju",
+    "Acabamento reforçado no punho e na gola"
+  ],
+
+  "care": {
+    "general": [
+      "Lave do lado avesso",
+      "Seque à sombra",
+      "Utilize água fria ou morna",
+      "Guarde dobrada ou em cabide"
+    ],
+    "avoid": [
+      "Não passe ferro sobre a estampa",
+      "Não use alvejante",
+      "Evite secadora quente",
+      "Não deixe de molho por longos períodos"
+    ],
+    "signature": {
+      "message": "Com carinho, fé e gratidão.<br><strong>Equipe Arcanju</strong> ♥",
+      "verse": "\"Eis que estou convosco todos os dias, até o fim dos tempos.\" (Mt 28,20)"
+    }
+  }
+}
