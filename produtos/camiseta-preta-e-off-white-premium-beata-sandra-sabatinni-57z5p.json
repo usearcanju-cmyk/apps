@@ -2,8 +2,8 @@
   "fitLabel": "Ajuste",
   "fitValue": "Padrão",
   "collectionLabel": "Coleção",
-  "collectionValue": "Devoção Mariana",
-  "sizeGuideImage": "https://SEU-LINK-DE-IMAGEM/guia-de-medidas.jpg",
+  "collectionValue": "Legado dos Santos",
+  "sizeGuideImage": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/guia-de-medidas-real.png",
 
   "reviews": {
     "average": 4.8,
@@ -93,7 +93,6 @@
   },
 
   "fitAndSize": {
-    "image": "https://SEU-LINK-DE-IMAGEM/detalhe-tecido.jpg",
     "title": "Modelagem padrão:",
     "text": "Recomendamos pedir o tamanho que você já costuma vestir em camisetas."
   },
