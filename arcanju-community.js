@@ -381,7 +381,7 @@
     if (config.reviews) {
       html += '<div class="arc-accordion-item" data-key="reviews">' +
         '<button type="button" class="arc-accordion-trigger">' +
-          '<span class="arc-accordion-title">Avaliações (' + config.reviews.items.length + ')</span>' +
+          '<span class="arc-accordion-title">Avaliações (' + (config.reviews.count || config.reviews.items.length) + ')</span>' +
           '<span class="arc-accordion-right"><span class="arc-mini-stars">' + starsHTML(config.reviews.average) + '</span>' + ARC_ICON_CHEVRON + '</span>' +
         '</button>' +
         '<div class="arc-accordion-panel-wrap"><div class="arc-accordion-panel arc-reviews-panel"></div></div>' +
