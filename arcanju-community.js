@@ -487,6 +487,7 @@
           '<span class="arc-reviews-avg-number">' + reviews.average.toFixed(1) + '</span>' +
           '<span class="arc-stars-lg">' + starsHTML(reviews.average) + '</span>' +
         '</div></div>' +
+        (reviews.note ? '<p class="arc-reviews-note">' + reviews.note + '</p>' : '') +
         '<div class="arc-reviews-controls">' +
           '<div class="arc-reviews-filters">' +
             [5, 4, 3, 2, 1].map(function (n) { return '<button type="button" class="arc-filter-chip" data-star="' + n + '">' + ARC_ICON_STAR_FILLED + ' ' + n + '</button>'; }).join('') +
@@ -1205,6 +1206,7 @@
       ".arc-care-message{font-size:13.5px;font-weight:600;color:var(--arc-text);line-height:1.6;margin:0 0 8px;}",
       ".arc-care-verse{font-size:12.5px;font-style:italic;color:var(--arc-text-muted);line-height:1.6;margin:0;max-width:460px;margin-left:auto;margin-right:auto;}",
       ".arc-reviews-summary{display:flex;align-items:center;gap:14px;margin-bottom:22px;}",
+      ".arc-reviews-note{font-size:12.5px;color:var(--arc-text-muted);margin:-14px 0 22px;}",
       ".arc-reviews-avg{display:flex;align-items:baseline;gap:10px;}",
       ".arc-reviews-avg-number{font-family:var(--arc-font-display);font-weight:800;font-size:34px;line-height:1;}",
       ".arc-stars-lg{display:flex;gap:2px;color:var(--arc-border);}",
