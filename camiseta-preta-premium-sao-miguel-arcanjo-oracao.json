@@ -1,0 +1,126 @@
+{
+  "fitLabel": "Ajuste",
+  "fitValue": "Padrão",
+  "collectionLabel": "Coleção",
+  "collectionValue": "Legado dos Santos",
+  "sizeGuideImage": "https://cdn.jsdelivr.net/gh/usearcanju-cmyk/apps@main/guia-de-medidas-real.png",
+  "reviews": {
+    "average": 4.8,
+    "count": 881,
+    "items": [
+      {
+        "rating": 5,
+        "title": "Amei demais!",
+        "author": "Luana Martins",
+        "verified": true,
+        "date": "2026-08-12",
+        "body": "Superou minhas expectativas! O tecido é grosso, a estampa não desbotou nem depois de várias lavagens. Já quero comprar outra."
+      },
+      {
+        "rating": 5,
+        "title": "Chegou rapidinho e linda",
+        "author": "Ana Clara Gonçalves",
+        "verified": true,
+        "date": "2026-08-10",
+        "body": "Vestiu perfeitamente no tamanho que eu já uso normalmente. A qualidade do algodão é muito boa, não parece nada barato."
+      },
+      {
+        "rating": 5,
+        "title": "Virou minha camiseta favorita",
+        "author": "Anna Helena",
+        "verified": true,
+        "date": "2026-08-08",
+        "body": "Uso pra igreja e pro dia a dia também, combina com tudo. A estampa é linda de perto, muito mais bonita do que eu imaginava pela foto."
+      },
+      {
+        "rating": 4,
+        "title": "Muito boa, recomendo",
+        "author": "Bruna Souza",
+        "verified": true,
+        "date": "2026-08-05",
+        "body": "Produto lindo e bem embalado. Só demorou um pouquinho mais que o previsto pra chegar, mas valeu a pena esperar."
+      },
+      {
+        "rating": 4,
+        "title": "Gostei bastante",
+        "author": "Clara Donegatti",
+        "verified": true,
+        "date": "2026-08-02",
+        "body": "Achei o tecido ótimo e a modelagem confortável. Só fiquei em dúvida no tamanho na hora de comprar, segui o guia de medidas e deu certo."
+      },
+      {
+        "rating": 5,
+        "title": "Presente perfeito",
+        "author": "Clara Seabra",
+        "verified": true,
+        "date": "2026-07-29",
+        "body": "Comprei de presente pra minha mãe e ela amou. A estampa é delicada e o caimento ficou ótimo nela."
+      },
+      {
+        "rating": 5,
+        "title": "Qualidade impecável",
+        "author": "Giovanna Ribeiro",
+        "verified": true,
+        "date": "2026-07-25",
+        "body": "Já tenho outras peças da marca e essa não decepcionou. O algodão é bem encorpado e a estampa tem um acabamento muito bonito."
+      },
+      {
+        "rating": 5,
+        "title": "Amei a proposta da marca",
+        "author": "Isabela Rubik",
+        "verified": true,
+        "date": "2026-07-22",
+        "body": "Além de linda, uso com muito orgulho porque representa minha fé. Recebi vários elogios usando ela."
+      },
+      {
+        "rating": 5,
+        "title": "Recomendo de olhos fechados",
+        "author": "Lavínia Tavares",
+        "verified": true,
+        "date": "2026-07-18",
+        "body": "Atendimento ótimo, entrega rápida e a camiseta é ainda mais bonita pessoalmente. Já estou de olho em outras estampas da loja."
+      },
+      {
+        "rating": 5,
+        "title": "Chegou certinho",
+        "author": "Letícia Salles",
+        "verified": true,
+        "date": "2026-07-15",
+        "body": "Gente fiquem tranquilos, eu comprei e chegou certinho 🤎 as peças são de alta qualidade e chega bem certinho 🙌 @usearcanju"
+      }
+    ]
+  },
+  "fitAndSize": {
+    "title": "Modelagem padrão:",
+    "text": "Recomendamos pedir o tamanho que você já costuma vestir em camisetas."
+  },
+  "description": "Uma camiseta pensada pra unir fé e estilo no dia a dia. Estampa exclusiva inspirada em SÃO MIGUEL ARCANJO + ORAÇÃO, feita em algodão premium encorpado que não perde a forma com o tempo. Ideal pra quem quer usar sua fé com identidade — do compromisso à rua.",
+  "details": [
+    "Modelagem reta",
+    "Gola careca reforçada",
+    "Material principal: 100% algodão penteado",
+    "Tecido premium encorpado",
+    "Estampa em DTF digital de alta durabilidade",
+    "Comprimento padrão",
+    "Elementos da marca Use Arcanju",
+    "Acabamento reforçado no punho e na gola"
+  ],
+  "care": {
+    "general": [
+      "Lave do lado avesso",
+      "Seque à sombra",
+      "Utilize água fria ou morna",
+      "Guarde dobrada ou em cabide"
+    ],
+    "avoid": [
+      "Não passe ferro sobre a estampa",
+      "Não use alvejante",
+      "Evite secadora quente",
+      "Não deixe de molho por longos períodos"
+    ],
+    "signature": {
+      "message": "Com carinho, fé e gratidão.<br><strong>Equipe Arcanju</strong> ♥",
+      "verse": "\"Eis que estou convosco todos os dias, até o fim dos tempos.\" (Mt 28,20)"
+    }
+  }
+}
